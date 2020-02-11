@@ -1,9 +1,17 @@
 OS 2020 1
 Assignments of Week 02 : done!
 
-"OS 201 B 1806205451 bonarws Bonar Wilfred"
+String = "OS 201 B 1806205451 bonarws Bonar Wilfred"
+Encrypted!
+Encryption Algorithm = AES
+Mode = CBC
+Key Size = 128 bit (16 numbers)
+Keys = 1111111111111111
 
-Hasil enkrpsi : wait
+Encryption Result = "XFjIQQIkASkW6OkSJ3UxblWi6aPvayjBsg/YQA8w0bybgztT4u1z6i1JVL7u+O89"
+
+This is a Symetric Encryption with only single keys that used for both encryption and decryption.
+Don't forget to decode Decryption Result from Base64 to Plain Text to see the real result.
 
 
 
