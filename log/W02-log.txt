@@ -1,17 +1,21 @@
 OS 2020 1
 Assignments of Week 02 : done!
 
-String = "OS 201 B 1806205451 bonarws Bonar Wilfred"
-Encrypted!
-Encryption Algorithm = AES
-Mode = CBC
-Key Size = 128 bit (16 numbers)
-Keys = 1111111111111111
-
-Encryption Result = "XFjIQQIkASkW6OkSJ3UxblWi6aPvayjBsg/YQA8w0bybgztT4u1z6i1JVL7u+O89"
-
-This is a Symetric Encryption with only single keys that used for both encryption and decryption.
-Don't forget to decode Decryption Result from Base64 to Plain Text to see the real result.
+hQIMA0tbvQREFwkCAQ//VOfenKM0kjv2d0UuuQ1onds7pY4vIW8m5+U/xa/ce57f
+qE/sjHXBhXZxEtqsdXSjoQ/AMJ4RnTDgS7yYvXLVlVFfI69XJzZ1MR+knkGEknnw
+iSWIgNNIURfSe7296AQNtHOHyREIEyiFkIBlPtZ3JXBxwNOwQ6ISHQTz59TP+ijy
+n0DfFys6fgIiBBGkWkG26N0dHK9qkc17z8sjhXM7sP01dhLjWSnYrbRp9J/wwVXp
+EHbi73Q0N52aGpPCWhpOfEjZrxQAG/brTdBT6tKijqzxORq5B7Dg0OV7tRshU72B
+2cmMusyWEHCSKTLQLlgDzVNRSIrNq+IB8j6j1cRrgAx+RUZPFpowpAtFLxhu+ftb
+q0OdwamAAad13HV4akEcjBPp6ZutE9pqVmDOtwGAKu1IK+pfxbDYkX36YMOkppxg
+tuXlWwNItaS8f4Pb1xQl1myVOodLpNVr8AMHHJQC53yortSYVhTj0Cap90473Xtr
+/yQ2uyBzFTUsNI28IrFl62ZkTdqmF3g3wCajKp3+iOAlmWSZ0obtbDfh3jP+47Ke
+rb/54IqjvIbJd6GwJslTPq9779kEaFHhkS3nGNpCD9hlIY8QXNFfv9E6WrSG0TLW
+SsZq1JVXI3p7azUWfGQ72nYJWibhqnTM3Z0FD/X+DvYLvHGBKkjTZtnIycokz4TS
+YgHqIs8J5xi0D6deKP7BrwYsB4z4EBkTOsbO55ApcXZHg3vO/Z8ugYjkwmxDrt2N
+psc1zo0PYRL5MNhtSdn/JdZeubWC06Ppn8qvkwy/ROoWGT7fHsz3dUie6Pc4VZCe
+QY73
+=gMPt
 
 
 
